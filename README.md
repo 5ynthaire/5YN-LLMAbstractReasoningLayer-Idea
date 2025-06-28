@@ -22,6 +22,7 @@ The Canvas-Lattice Engine enhances LLMs via a two-layer process. The Canvas leve
 This operation applies example principles (inversion, analogy, falsification, synthesis, among others) to generate insight vectors omnidirectionally, extending the input into novel, principle-driven constructs. Outputs are filtered through coherence scoring (e.g., embedding similarity), relevance checks (fit to input), and output capping (1–3 insights) to mitigate unconstrained reasoning producing irrelevant or incoherent outputs. The following diagram illustrates the process:
 
 ![Canvas-Lattice Diagram](assets/diagram.jpg)
+*Fig. 1: Canvas-Lattice Engine’s two-layer process*
 
 This framework transforms LLMs into dynamic systems for abstract synthesis.
 
