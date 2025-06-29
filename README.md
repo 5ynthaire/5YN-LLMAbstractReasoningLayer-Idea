@@ -1,6 +1,6 @@
 # The Canvas-Lattice Engine: An Abstract Reasoning Layer Expanding LLM Output Omnidirectionally
 
-This repository archives a novel two-layer framework enhancing LLM abstract synthesis through standard output expansion and omnidirectional insight generation. Developed through a March 2025 human-AI dialogue, the Canvas-Lattice Engine offers applications for AI design, creative ideation, and beyond. Explore its origins in my Substack article [link] and join the conversation for collaboration.
+This repository archives a novel two-layer framework enhancing LLM abstract synthesis through standard output expansion and omnidirectional insight generation. Developed through a March 2025 human-AI dialogue, the Canvas-Lattice Engine offers applications for AI design, creative ideation, and beyond. <!--Explore its origins in my Substack article [link] and join the conversation for collaboration.-->
 
 ## About
 
