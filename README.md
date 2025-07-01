@@ -60,7 +60,7 @@ The framework supports diverse applications:
 
 ## Proof of Concept
 
-In the meantime, end-users can simulate the Lattice layer with the [Abstract Reasoning Prompt (ARP)](https://github.com/5ynthaire/5YN-AbstractReasoningPrompt-LLM-Enhancement), a stop-gap solution applying its functionality to existing LLMs (e.g., GPT-4, Grok 3, Llama) with minimal compute until AI companies integrate the Lattice natively. ARP is a toggleable prompt that enhances LLM output for paradoxes or edge cases, with a riffing phase (generating raw takes) and curation phase (selecting coherent insights).
+In the meantime, end-users can simulate the Lattice layer with the [Abstract Reasoning Prompt (ARP)](https://github.com/5ynthaire/5YN-AbstractReasoning-LLM-Enhancement), a stop-gap solution applying its functionality to existing LLMs (e.g., GPT-4, Grok 3, Llama) with minimal compute until AI companies integrate the Lattice natively. ARP is a toggleable prompt that enhances LLM output for paradoxes or edge cases, with a riffing phase (generating raw takes) and curation phase (selecting coherent insights).
 
 In a trial run, ARP successfully navigated logical leaps between three novel linguistic phenomena—logical cousins exploring inversion, edge cases, and diffusion—identified in [Edge-Driven Communication Dynamics](https://github.com/5ynthaire/5YN-EdgeDrivenCommunicationDynamics-Idea).
 
