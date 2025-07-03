@@ -34,7 +34,7 @@ As of June 28, 2025, searches across AI (dual-process models, meta-learning), co
 
 ## Proof of Concept: Try It Yourself
 
-The [Abstract Reasoning Prompt (ARP)](https://github.com/5ynthaire/5YN-AbstractReasoning-LLM-Enhancement) validates the Canvas-Lattice Engine by simulating the Lattice layer on LLMs (e.g., Grok 3, ChatGPT, Llama). Copy the code below and paste it into an LLM to generate insights from a paradox. View example trial runs on [ARP's demo page](https://5ynthaire.github.io/5YN-AbstractReasoning-LLM-Enhancement/). ARP demonstrates the Engine’s potential for AI companies. DM @5ynthaire to share results.
+The [Abstract Reasoning Prompt (ARP)](https://github.com/5ynthaire/5YN-AbstractReasoning-LLM-Enhancement) validates the Canvas-Lattice Engine by simulating the Lattice layer on LLMs (e.g., Grok 3, ChatGPT, Llama). Copy the code below and paste it into an LLM to generate insights from a paradox. View example trial runs on [ARP's demo page](https://5ynthaire.github.io/5YN-AbstractReasoning-LLM-Enhancement/). ARP demonstrates the Engine’s potential for AI companies. Tag [@5ynthaire] on X to share results.
 
 ```
 # Test Abstract Reasoning Prompt (ARP)
