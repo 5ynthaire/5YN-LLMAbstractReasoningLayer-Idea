@@ -1,11 +1,11 @@
 # Canvas-Lattice Engine: AI Abstract Reasoning Framework
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17311914.svg)](https://doi.org/10.5281/zenodo.17311914)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17311913.svg)](https://doi.org/10.5281/zenodo.17311913)
 
 Introducing the Canvas-Lattice Engine: a smart, novel, lightweight approach to deeper thinking via addition of a second abstract reasoning layer to existing LLMs. Prompt-driven tests prove it delivers sharper insights.
 
 ## Quick Start
-- [Preprint](https://doi.org/10.5281/zenodo.17311914)
+- [Preprint](https://doi.org/10.5281/zenodo.17311913)
 - [Prompt](https://github.com/5ynthaire/5YN-AbstractReasoning-LLM-Enhancement)
 - [Demo](https://5ynthaire.github.io/5YN-AbstractReasoning-LLM-Enhancement/)
 - [License](LICENSE)
